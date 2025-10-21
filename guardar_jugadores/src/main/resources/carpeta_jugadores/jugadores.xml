@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Jugadores>
+    <jugador>
+        <id>1</id>
+        <nombre>Alberto</nombre>
+        <usuario>alber17</usuario>
+        <edad>28</edad>
+        <porcentaje_victorias>43.89</porcentaje_victorias>
+    </jugador>
+    <jugador>
+        <id>2</id>
+        <nombre>Eva</nombre>
+        <usuario>eva_p</usuario>
+        <edad>25</edad>
+        <porcentaje_victorias>40.45</porcentaje_victorias>
+    </jugador>
+    <jugador>
+        <id>3</id>
+        <nombre>Carlos</nombre>
+        <usuario>charly_tingus</usuario>
+        <edad>20</edad>
+        <porcentaje_victorias>45.32</porcentaje_victorias>
+    </jugador>
+    <jugador>
+        <id>4</id>
+        <nombre>Alexis</nombre>
+        <usuario>@rrobalexis</usuario>
+        <edad>19</edad>
+        <porcentaje_victorias>45.84</porcentaje_victorias>
+    </jugador>
+    <jugador>
+        <id>5</id>
+        <nombre>Daniel</nombre>
+        <usuario>h3rr3ro_d4ni5l</usuario>
+        <edad>19</edad>
+        <porcentaje_victorias>52.2</porcentaje_victorias>
+    </jugador>
+</Jugadores>
